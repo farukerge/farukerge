@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farukerge
+- 👋 Hi, I’m Faruk Erge
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning React 
 
